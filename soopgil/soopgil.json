@@ -13,15 +13,15 @@
       "description": "soopgil Running Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": null,
       "version": "",
-      "address": "localhost:25565",
+      "address": "211.109.64.14:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.0",
@@ -510,16 +510,6 @@
             "size": 123034,
             "url": "https://raw.githubusercontent.com/minsuho/soopgil/main/servers/soopgil-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
-          }
-        },
-        {
-          "id": "net.mcreator.landkfurniturev:landk_furniture_v1_4:1.4@jar",
-          "name": "Landk Furniture v1.4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 126946560,
-            "url": "https://raw.githubusercontent.com/minsuho/soopgil/main/servers/soopgil-1.20.1/forgemods/required/Landk_furniture_v1.4_1.20.1_x512_3d_rx.jar",
-            "MD5": "4a2da77d3d08808447079857c672885f"
           }
         },
         {
