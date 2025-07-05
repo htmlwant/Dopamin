@@ -84,7 +84,7 @@
               "id": "net.minecraftforge:forge:1.20.1-47.4.0:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
-              "classpath": false,
+              "classpath": true,
               "artifact": {
                 "size": 2776081,
                 "MD5": "f373b63ab9bfe53f7b35aaa425afa136",
@@ -96,7 +96,7 @@
               "id": "net.minecraftforge:forge:1.20.1-47.4.0:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
-              "classpath": false,
+              "classpath": true,
               "artifact": {
                 "size": 4826828,
                 "MD5": "1940b09c4b066287963bde17aa375cec",
@@ -108,7 +108,7 @@
               "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
               "name": "Minecraft Forge (client srg)",
               "type": "Library",
-              "classpath": false,
+              "classpath": true,
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
@@ -120,7 +120,7 @@
               "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
               "name": "Minecraft Forge (client slim)",
               "type": "Library",
-              "classpath": false,
+              "classpath": true,
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
@@ -132,7 +132,7 @@
               "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
               "name": "Minecraft Forge (client extra)",
               "type": "Library",
-              "classpath": false,
+              "classpath": true,
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
