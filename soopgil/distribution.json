@@ -24,18 +24,15 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraft:minecraft:1.20.1",
-          "name": "Minecraft 1.20.1",
-          "type": "Minecraft",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.0",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-          "size": 18842082,
-          "MD5": "8bfacfba4f54cda741019756165c5ecf",
-          "url": "https://launcher.mojang.com/v1/objects/cc71c78aa4205a1d3fca7a658abf58c2466b911c/client.jar"
-        },
-      {
-  "subModules": []
-}
+            "size": 7399,
+            "MD5": "a839d5603a05491f84f6c36284ab0ea8",
+            "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar"
+          },
           "subModules": [
             {
               "id": "1.20.1-47.4.0",
@@ -60,6 +57,18 @@
               "subModules": []
             },
             {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.0",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16855,
+                "MD5": "10ca1edc0a62ea799c4327bfc44e5ad6",
+                "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
+              },
+              "subModules": []
+            },
+            {
               "id": "net.minecraftforge:mclanguage:1.20.1-47.4.0",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
@@ -75,7 +84,7 @@
               "id": "net.minecraftforge:forge:1.20.1-47.4.0:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
-              "classpath": true,
+              "classpath": false,
               "artifact": {
                 "size": 2776081,
                 "MD5": "f373b63ab9bfe53f7b35aaa425afa136",
@@ -87,7 +96,7 @@
               "id": "net.minecraftforge:forge:1.20.1-47.4.0:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
-              "classpath": true,
+              "classpath": false,
               "artifact": {
                 "size": 4826828,
                 "MD5": "1940b09c4b066287963bde17aa375cec",
@@ -99,7 +108,7 @@
               "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
               "name": "Minecraft Forge (client srg)",
               "type": "Library",
-              "classpath": true,
+              "classpath": false,
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
@@ -111,7 +120,7 @@
               "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
               "name": "Minecraft Forge (client slim)",
               "type": "Library",
-              "classpath": true,
+              "classpath": false,
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
@@ -123,7 +132,7 @@
               "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
               "name": "Minecraft Forge (client extra)",
               "type": "Library",
-              "classpath": true,
+              "classpath": false,
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
@@ -534,16 +543,6 @@
           }
         },
         {
-          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.8.4+mc1.20.1@jar",
-          "name": "Korean Patch",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 299153,
-            "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/servers/soopgil-1.20.1/forgemods/required/koreanpatch-forge-1.8.4+mc1.20.1.jar",
-            "MD5": "cb8a0ee8f019705ecef8f86f545a3f1b"
-          }
-        },
-        {
           "id": "de.cristelknight:doapi:1.2.15@jar",
           "name": "[Let's Do] API",
           "type": "ForgeMod",
@@ -611,17 +610,6 @@
             "size": 181437,
             "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/servers/soopgil-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
-          }
-        },
-        {
-          "id": "journeymap-5.10.3.jar",
-          "name": "journeymap-5.10.3.jar",
-          "type": "File",
-          "artifact": {
-            "size": 7160406,
-            "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/servers/soopgil-1.20.1/files/mods/journeymap-5.10.3.jar",
-            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9",
-            "path": "mods/journeymap-5.10.3.jar"
           }
         }
       ]
