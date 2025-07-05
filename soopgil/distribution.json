@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
