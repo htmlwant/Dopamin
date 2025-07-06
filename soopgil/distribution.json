@@ -583,13 +583,13 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
-          "name": "OptiFine",
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7145205,
-            "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/servers/soopgil-1.20.1/forgemods/required/OptiFine_1.20.1_HD_U_I6.jar",
-            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+            "size": 2851119,
+            "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/servers/soopgil-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
         {
