@@ -15,6 +15,11 @@
       "version": "",
       "address": "211.109.64.14:25565",
       "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
       "mainServer": true,
       "autoconnect": true,
       "modules": [
@@ -52,6 +57,18 @@
               "subModules": []
             },
             {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.0",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16855,
+                "MD5": "10ca1edc0a62ea799c4327bfc44e5ad6",
+                "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
+              },
+              "subModules": []
+            },
+            {
               "id": "net.minecraftforge:mclanguage:1.20.1-47.4.0",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
@@ -63,16 +80,6 @@
               },
               "subModules": []
             },
-            {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.0",
-              "name": "Minecraft Forge (javafmllanguage)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 16855,
-                "MD5": "10ca1edc0a62ea799c4327bfc44e5ad6",
-                "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
-              },
             {
               "id": "net.minecraftforge:forge:1.20.1-47.4.0:universal",
               "name": "Minecraft Forge (universal jar)",
