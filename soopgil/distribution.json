@@ -578,6 +578,16 @@
           }
         },
         {
+          "id": "net.coderbot.iris:oculus:1.6.4@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2849391,
+            "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/servers/soopgil-1.20.1/forgemods/required/oculus-mc1.20-1.6.4.jar",
+            "MD5": "5a5931227b842d89f2ace93625b22739"
+          }
+        },
+        {
           "id": "su.plo.voice:plasmovoice:2.1.4@jar",
           "name": "Plasmo Voice",
           "type": "ForgeMod",
@@ -598,13 +608,13 @@
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:rubidium:0.7.1a@jar",
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.6.5@jar",
           "name": "Rubidium",
           "type": "ForgeMod",
           "artifact": {
-            "size": 715190,
-            "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/servers/soopgil-1.20.1/forgemods/required/rubidium-mc1.20.1-0.7.1a.jar",
-            "MD5": "234d6ddfff9313fb943abf4d038fe5f4"
+            "size": 605877,
+            "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/servers/soopgil-1.20.1/forgemods/required/rubidium-0.6.5.jar",
+            "MD5": "a452efa401ac9ec14d7232243ee4f3fd"
           }
         },
         {
