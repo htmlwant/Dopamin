@@ -15,11 +15,6 @@
       "version": "",
       "address": "211.109.64.14:25565",
       "minecraftVersion": "1.20.1",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
       "mainServer": true,
       "autoconnect": true,
       "modules": [
@@ -580,6 +575,16 @@
             "size": 143363,
             "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/servers/soopgil-1.20.1/forgemods/required/moredelight-25.01.13-1.20-forge.jar",
             "MD5": "83c285829addf55bc08105dcd42578d4"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/servers/soopgil-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
         {
