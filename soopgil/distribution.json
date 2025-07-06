@@ -613,6 +613,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.7.1a@jar",
+          "name": "Rubidium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 715190,
+            "url": "https://raw.githubusercontent.com/htmlwant/Dopamin/main/soopgil/servers/soopgil-1.20.1/forgemods/required/rubidium-mc1.20.1-0.7.1a.jar",
+            "MD5": "234d6ddfff9313fb943abf4d038fe5f4"
+          }
+        },
+        {
           "id": "sounds.json",
           "name": "sounds.json",
           "type": "File",
