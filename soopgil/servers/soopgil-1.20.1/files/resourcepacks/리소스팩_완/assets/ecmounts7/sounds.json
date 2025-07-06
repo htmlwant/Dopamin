@@ -1,0 +1,42 @@
+{
+ "custom.ecmounts7.catsability": {
+  "sounds": [
+   "custom/ecmounts7/catsability"
+  ]
+ },
+ "custom.ecmounts7.catspet": {
+  "sounds": [
+   "custom/ecmounts7/catspet"
+  ]
+ },
+ "custom.ecmounts7.otterability": {
+  "sounds": [
+   "custom/ecmounts7/otterability"
+  ]
+ },
+ "custom.ecmounts7.otterdeath": {
+  "sounds": [
+   "custom/ecmounts7/otterdeath"
+  ]
+ },
+ "custom.ecmounts7.otterpet": {
+  "sounds": [
+   "custom/ecmounts7/otterpet"
+  ]
+ },
+ "custom.ecmounts7.sprint": {
+  "sounds": [
+   "custom/ecmounts7/sprint"
+  ]
+ },
+ "custom.ecmounts7.walk": {
+  "sounds": [
+   "custom/ecmounts7/walk"
+  ]
+ },
+ "custom.ecmounts7.catsdeath": {
+  "sounds": [
+   "custom/ecmounts7/catsdeath"
+  ]
+ }
+}

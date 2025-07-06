@@ -1,0 +1,82 @@
+{
+   "littleroom.gryffin.call1":{
+		 "sounds": [
+			"littleroom/gryffin/call1"
+		 ]
+	},
+   "littleroom.gryffin.call2":{
+		 "sounds": [
+			"littleroom/gryffin/call2"
+		 ]
+	},
+   "littleroom.gryffin.death":{
+		 "sounds": [
+			"littleroom/gryffin/death"
+		 ]
+	},
+   "littleroom.gryffin.poof":{
+		 "sounds": [
+			"littleroom/gryffin/poof"
+		 ]
+	},
+   "littleroom.gryffin.swing1":{
+		 "sounds": [
+			"littleroom/gryffin/swing1"
+		 ]
+	},
+   "littleroom.gryffin.swing2":{
+		 "sounds": [
+			"littleroom/gryffin/swing2"
+		 ]
+	},
+   "littleroom.gryffin.swing3":{
+		 "sounds": [
+			"littleroom/gryffin/swing3"
+		 ]
+	},
+   "littleroom.gryffin.tornado":{
+		 "sounds": [
+			"littleroom/gryffin/tornado"
+		 ]
+	},
+   "littleroom.gryffin.wingflap1":{
+		 "sounds": [
+			"littleroom/gryffin/wingflap1"
+		 ]
+	},
+   "littleroom.gryffin.wingflap2":{
+		 "sounds": [
+			"littleroom/gryffin/wingflap2"
+		 ]
+	},
+   "littleroom.gryffin.wingflap3":{
+		 "sounds": [
+			"littleroom/gryffin/wingflap3"
+		 ]
+	},
+   "littleroom.gryffin.death_air":{
+		 "sounds": [
+			"littleroom/gryffin/death_air"
+		 ]
+	},
+   "littleroom.gryffin.death_air_land":{
+		 "sounds": [
+			"littleroom/gryffin/death_air_land"
+		 ]
+	},
+   "littleroom.gryffin.hit1":{
+		 "sounds": [
+			"littleroom/gryffin/hit1"
+		 ]
+	},
+   "littleroom.gryffin.hit2":{
+		 "sounds": [
+			"littleroom/gryffin/hit2"
+		 ]
+	},
+   "littleroom.gryffin.hit3":{
+		 "sounds": [
+			"littleroom/gryffin/hit3"
+		 ]
+	}
+}

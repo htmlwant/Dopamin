@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/rabbit_hide"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1000076}, "model": "custom/elitecreatures/ecmounts7/icon1"},
+		{"predicate": {"custom_model_data":1000077}, "model": "custom/elitecreatures/ecmounts7/icon2"},
+		{"predicate": {"custom_model_data":1000078}, "model": "custom/elitecreatures/ecmounts7/icon3"},
+		{"predicate": {"custom_model_data":1000079}, "model": "custom/elitecreatures/ecmounts7/icon4"},
+		{"predicate": {"custom_model_data":1000080}, "model": "custom/elitecreatures/ecmounts7/icon5"}
+	]
+}

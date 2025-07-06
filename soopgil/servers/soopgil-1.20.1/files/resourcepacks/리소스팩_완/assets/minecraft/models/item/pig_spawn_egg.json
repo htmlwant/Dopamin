@@ -1,0 +1,10 @@
+{
+    "parent": "item/template_spawn_egg",
+	"overrides": [
+		{"predicate": {"custom_model_data":96501}, "model": "item/nocsy/nocsy_mountpack_egg_dodo"},
+		{"predicate": {"custom_model_data":96502}, "model": "item/nocsy/nocsy_mountpack_egg_leopard"},
+		{"predicate": {"custom_model_data":96503}, "model": "item/nocsy/nocsy_mountpack_egg_lizard"},
+		{"predicate": {"custom_model_data":96504}, "model": "item/nocsy/nocsy_mountpack_egg_moth"},
+		{"predicate": {"custom_model_data":96505}, "model": "item/nocsy/nocsy_mountpack_egg_ram"}
+	]
+}

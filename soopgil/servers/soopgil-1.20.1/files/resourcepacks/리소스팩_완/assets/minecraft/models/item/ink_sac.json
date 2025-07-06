@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/ink_sac"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":69691}, "model": "littleroom_gryffin:mcpets_icon/gryffin_icon"},
+		{"predicate": {"custom_model_data":69692}, "model": "littleroom_gryffin:mcpets_icon/gryffin_corvid_icon"},
+		{"predicate": {"custom_model_data":78801}, "model": "item/nocsy/nocsy_mountpack_icon_dodo"},
+		{"predicate": {"custom_model_data":78802}, "model": "item/nocsy/nocsy_mountpack_icon_dodo_baby"},
+        
+		{"predicate": {"custom_model_data":78803}, "model": "item/nocsy/nocsy_mountpack_icon_leopard"},
+		{"predicate": {"custom_model_data":78804}, "model": "item/nocsy/nocsy_mountpack_icon_leopard_baby"},
+        
+		{"predicate": {"custom_model_data":78805}, "model": "item/nocsy/nocsy_mountpack_icon_lizard"},
+		{"predicate": {"custom_model_data":78806}, "model": "item/nocsy/nocsy_mountpack_icon_lizard_baby"},
+        
+		{"predicate": {"custom_model_data":78807}, "model": "item/nocsy/nocsy_mountpack_icon_moth"},
+		{"predicate": {"custom_model_data":78808}, "model": "item/nocsy/nocsy_mountpack_icon_moth_baby"},
+        
+		{"predicate": {"custom_model_data":78809}, "model": "item/nocsy/nocsy_mountpack_icon_ram"},
+		{"predicate": {"custom_model_data":78810}, "model": "item/nocsy/nocsy_mountpack_icon_ram_baby"},
+		
+		{"predicate": {"custom_model_data":78811}, "model": "item/nocsy/nocsy_mountpack_signalstick"}
+	]
+}

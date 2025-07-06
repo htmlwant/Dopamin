@@ -1,0 +1,20 @@
+{
+  "sources":
+  [
+    {
+      "source":"entity",
+      "prefix":"entity/",
+      "type":"directory"
+    },
+    {
+      "source":"nocsy",
+      "prefix":"nocsy/",
+      "type":"directory"
+    },
+    {
+      "source":"custom",
+      "prefix":"custom/",
+      "type":"directory"
+    }
+  ]
+}
